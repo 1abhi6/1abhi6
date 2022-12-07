@@ -16,7 +16,6 @@
 </div>
 
 <!-- View Counter -->
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt="Profile View Counter"/>
 </div>
