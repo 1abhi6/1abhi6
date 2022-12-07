@@ -14,3 +14,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<!-- View Counter -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt=""/>
+</div>
