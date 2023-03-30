@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<h1 align="center">Hi there, I'm Abhishek! 👋</h1>
+<h1 align="center">Namaste, I'm Abhishek! 👋</h1>
 <p align="center">I'm a Python developer with a passion for creating efficient and elegant software solutions.</p>
 <div align="center">
   <!-- View Counter -->
@@ -26,10 +26,10 @@
 <p align="center">
   <a href="https://github.com/1abhi6/Geometrify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&" alt="Geometrify" />
-  </a> <br>
+  </a> <br><br>
   <a href="https://github.com/1abhi6/abhifolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=abhifolio&show_owner=true&" alt="abhifolio" />
-  </a><br>
+  </a><br><br>
   <a href="https://github.com/1abhi6/todo-flask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=todo-flask&show_owner=true&" alt="todo-flask" />
   </a>
