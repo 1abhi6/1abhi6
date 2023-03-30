@@ -25,13 +25,13 @@
 <h2 align="center">Projects</h2>
 <p align="center">
   <a href="https://github.com/1abhi6/Geometrify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&theme=dark" alt="Geometrify" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&" alt="Geometrify" />
   </a>
   <a href="https://github.com/1abhi6/abhifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=abhifolio&show_owner=true&theme=dark" alt="abhifolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=abhifolio&show_owner=true&" alt="abhifolio" />
   </a>
   <a href="https://github.com/1abhi6/todo-flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=todo-flask&show_owner=true&theme=dark" alt="todo-flask" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=todo-flask&show_owner=true&" alt="todo-flask" />
   </a>
 </p>
 
