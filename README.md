@@ -26,10 +26,10 @@
 <p align="center">
   <a href="https://github.com/1abhi6/Geometrify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&" alt="Geometrify" />
-  </a>
+  </a> <br>
   <a href="https://github.com/1abhi6/abhifolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=abhifolio&show_owner=true&" alt="abhifolio" />
-  </a>
+  </a><br>
   <a href="https://github.com/1abhi6/todo-flask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=todo-flask&show_owner=true&" alt="todo-flask" />
   </a>
