@@ -51,5 +51,4 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
- <h2 align="center">Others</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1abhi6&show_icons=true&locale=en&layout=compact" alt="1abhi6" /></p>
