@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&" alt="Geometrify" />
   </a> <br><br>
   <a href="https://github.com/1abhi6/IPL_API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=abhifolio&show_owner=true&" alt="abhifolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=IPL_API&show_owner=true&" alt="abhifolio" />
   </a><br><br>
   <a href="https://github.com/1abhi6/todo-flask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=todo-flask&show_owner=true&" alt="todo-flask" />
