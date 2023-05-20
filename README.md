@@ -26,12 +26,14 @@
 <p align="center">
   <a href="https://github.com/1abhi6/Geometrify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&" alt="Geometrify" />
-  </a> <br><br>
-  <a href="https://github.com/1abhi6/IPL_API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=IPL_API&show_owner=true&" alt="IPL dataset analysis API" />
-  </a><br><br>
+  </a>
+  <br><br>
   <a href="https://github.com/1abhi6/Store-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Store-API&show_owner=true&" alt="Store API" />
+  </a>
+  <br><br>
+  <a href="https://github.com/1abhi6/IPL_API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=IPL_API&show_owner=true&" alt="IPL dataset analysis API" />
   </a>
 </p>
 
