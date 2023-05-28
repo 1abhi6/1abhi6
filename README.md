@@ -33,7 +33,7 @@
   </a>
   <br><br>
   <a href="https://github.com/1abhi6/IPL_API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=IPL_API&show_owner=true&" alt="IPL dataset analysis API" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Streamlit-Indian-Startup-Funding&show_owner=true&" alt="Streamlit-Indian-Startup-Funding" />
   </a>
 </p>
 
