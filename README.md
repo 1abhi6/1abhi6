@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Store-API&show_owner=true&" alt="Store API" />
   </a>
   <br><br>
-  <a href="https://github.com/1abhi6/IPL_API">
+  <a href="https://github.com/1abhi6/Streamlit-Indian-Startup-Funding">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Streamlit-Indian-Startup-Funding&show_owner=true&" alt="Streamlit-Indian-Startup-Funding" />
   </a>
 </p>
