@@ -23,7 +23,9 @@ I am a passionate, skilled, and self-motivated coder with a strong academic back
 # 💻 Projects
 
 [![Geometrify](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&)](https://github.com/1abhi6/Geometrify)
+
 [![Store API](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Store-API&show_owner=true&)](https://github.com/1abhi6/Store-API)
+
 [![Streamlit-Indian-Startup-Funding](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Streamlit-Indian-Startup-Funding&show_owner=true&)](https://github.com/1abhi6/IPL_API)
 
 <!-- Profile Info -->
