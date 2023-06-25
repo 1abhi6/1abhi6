@@ -3,7 +3,7 @@
 <!-- Introduction -->
 # Namaste, I'm Abhishek! 👋
 
-I am a passionate, skilled, and self-motivated coder with a strong academic background and experience in coding. I am eager to learn new technologies.
+I am a passionate, skilled, and self-motivated coder. I am eager to learn new technologies and ready to make an impact.
 
 <!-- Projects -->
 # 💻 Projects
