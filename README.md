@@ -5,6 +5,8 @@
 
 I am a passionate, skilled, and self-motivated coder. I am eager to learn new technologies and ready to make an impact.
 
+<!-- View Counter -->
+<img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt="Profile View Counter"/>
 <!-- Projects -->
 # 💻 Projects
 
