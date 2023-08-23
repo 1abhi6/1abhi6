@@ -26,6 +26,8 @@ I am a passionate, skilled, and self-motivated coder. I am eager to learn new te
 <!-- GitHub Stats -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1abhi6&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![1abhi6's GitHub | Topics](https://stats.quine.sh/1abhi6/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=1abhi6)
+
 <!-- Skills -->
 # 🚀 Skills
 
