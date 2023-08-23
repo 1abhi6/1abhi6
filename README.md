@@ -13,9 +13,9 @@ I am a passionate, skilled, and self-motivated data enthusiast. I am eager to le
 
 [![Geometrify](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Geometrify&show_owner=true&)](https://github.com/1abhi6/Geometrify)
 
-[![Store API](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Store-API&show_owner=true&)](https://github.com/1abhi6/Store-API)
+[![WhatsApp Chat Analyser](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=analyse-whatsapp-chat&show_owner=true&)](https://github.com/1abhi6/analyse-whatsapp-chat)
 
-[![Streamlit-Indian-Startup-Funding](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Streamlit-Indian-Startup-Funding&show_owner=true&)](https://github.com/1abhi6/IPL_API)
+[![Indian Startup Funding Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=1abhi6&repo=Streamlit-Indian-Startup-Funding&show_owner=true&)](https://github.com/1abhi6/IPL_API)
 
 <!-- Profile Info -->
 # 🏆 GitHub Achievements
