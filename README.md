@@ -3,7 +3,7 @@
 <!-- Introduction -->
 # Namaste, I'm Abhishek! 👋
 
-I am a passionate, skilled, and self-motivated data enthusiast. I am eager to learn new technologies, I also believe the power of data and ready to make an impact.
+I talk about data and business.
 
 <!-- View Counter -->
 <img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt="Profile View Counter"/>
