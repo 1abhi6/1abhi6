@@ -3,7 +3,7 @@
 <!-- Introduction -->
 # Namaste, I'm Abhishek! 👋
 
-I talk about data and business.
+AI Agents | Python + LLMs + No-Code Automations
 
 <!-- View Counter -->
 <img src="https://komarev.com/ghpvc/?username=1abhi6&style=flat-square&color=blue" alt="Profile View Counter"/>
