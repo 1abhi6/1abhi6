@@ -13,13 +13,12 @@
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/codeabhi"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://linkedin.com/in/iautomates"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Fast_Abhi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:abhi@getifyme.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/LmPdQWc.png"/></a>
+  <a href="mailto:abhishekguptacode@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/LmPdQWc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://abhi.getifyme.com/"><img width="32px" alt="Website" title="Website" src="https://i.imgur.com/U7xEJ9X.png"/></a>
 </p>
 
 <br/>
