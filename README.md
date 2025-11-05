@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/1abhi6">
-    <img src="https://i.imgur.com/zpcO87L.png" alt="Abhishek" width="200"/>
-  </a>
-</p>
 
 <p align="center">
   <!-- Typing SVG -->
